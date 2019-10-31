@@ -1,0 +1,7 @@
+sepal_length,	sepal_width,	petal_length,	petal_width,	species	species_id
+5,	3.3,	1.4,	0.2,	setosa,	1
+7,	3.2,	4.7,	1.4, versicolor,	2
+6.3,	3.3,	6,	2.5,	virginica,	3
+8,	2.4,	1.2,	0.2,	setosa,	4
+3,	1.6,	3.7,	1.4,	versicolor,	5
+9,	4,	5.5,	2.5,	virginica,	6
